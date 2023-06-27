@@ -1,0 +1,24 @@
+
+
+============================== 21:42:14.913878 | 756d1cf1-aa56-49dc-9720-edf28ce54964 ==============================
+[0m21:42:14.913878 [info ] [MainThread]: Running with dbt=1.5.2
+[0m21:42:14.917983 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'write_json': 'True', 'log_cache_events': 'False', 'partial_parse': 'True', 'cache_selected_only': 'False', 'profiles_dir': '/Users/ahegde/Job_misc/Educational_trainings/StartDataEngg/customer_orders_dbt_project', 'version_check': 'True', 'fail_fast': 'False', 'log_path': 'logs', 'warn_error': 'None', 'debug': 'False', 'use_colors': 'True', 'use_experimental_parser': 'False', 'no_print': 'None', 'quiet': 'False', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'static_parser': 'True', 'log_format': 'default', 'introspect': 'True', 'target_path': 'None', 'send_anonymous_usage_stats': 'False'}
+[0m21:42:42.510813 [debug] [MainThread]: Starter project path: /Users/ahegde/opt/anaconda3/lib/python3.9/site-packages/dbt/include/starter_project
+[0m21:42:48.272249 [info ] [MainThread]: 
+Your new dbt project "simple_dbt_project" was created!
+
+For more information on how to configure the profiles.yml file,
+please consult the dbt documentation here:
+
+  https://docs.getdbt.com/docs/configure-your-profile
+
+One more thing:
+
+Need help? Don't hesitate to reach out to us via GitHub issues or on Slack:
+
+  https://community.getdbt.com/
+
+Happy modeling!
+
+[0m21:42:48.273763 [debug] [MainThread]: Command `dbt init` succeeded at 21:42:48.272924 after 33.39 seconds
+[0m21:42:48.274111 [debug] [MainThread]: Flushing usage events
