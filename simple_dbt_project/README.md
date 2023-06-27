@@ -1,3 +1,4 @@
+A quick data transformation project in dbt using a customer order information dataset.
 
 Commands to run the data pipeline:
 
